@@ -15,6 +15,6 @@ Y abordando el tema del ritmo de publicaciones… pues la verdad es que no me vo
 
 Así que sin más, os invito a que me sigáis por aquí, que aportéis en los comentarios de las entradas, que hagáis peticiones de los temas que os interesen, tanto de manera pública como privada, mediante redes sociales o correo electrónico.
 
-Tenéis toda la información de como contactar en la zona izquierda de este blog, si lo hacéis desde la versión de escritorio o en la parte superior de la página en caso de que estéis accediendo desde la versión móvil.
+Tenéis toda la información de como contactar en la zona izquierda de este blog, si lo hacéis desde la versión de escritorio, o en la parte superior de la página, en caso de que estéis accediendo desde la versión móvil.
 
 Un saludo!
