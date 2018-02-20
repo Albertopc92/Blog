@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "es-ES"
-title                    : "Alberto Pérez Cano"
+title                    : "Blog - Alberto Pérez Cano"
 title_separator          : "-"
 name                     : "Alberto Pérez Cano"
-description              : "An amazing website."
+description              : ""
 url                      : "https://www.albertopc.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /blog # the subpath of your site, e.g. "/blog"
 repository               : albertopc92/blog # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
