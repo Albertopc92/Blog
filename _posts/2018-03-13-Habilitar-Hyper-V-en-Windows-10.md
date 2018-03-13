@@ -13,7 +13,7 @@ header:
   og_image: /assets/images/posts/2018-03-13-Habilitar-Hyper-V-en-Windows-10/og.png
 ---
 
-Continuemos con otro post dentro de la serie dedicados a [Hyper-V](https://www.albertopc.com/blog/Que-es-Microsoft-Hyper-V/). En esta ocasión, vamos a ver cómo podemos habilitarlo en Windows 10.
+Continuemos con otro post dentro de la serie dedicada a [Hyper-V](https://www.albertopc.com/blog/Que-es-Microsoft-Hyper-V/). En esta ocasión, vamos a ver cómo podemos habilitarlo en Windows 10.
 
 Existen distintas formas de llevarlo a cabo, pero en este caso nos centraremos principalmente en dos de ellas:
 
