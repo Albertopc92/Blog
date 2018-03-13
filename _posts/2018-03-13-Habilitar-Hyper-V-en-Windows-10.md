@@ -31,7 +31,7 @@ Antes de proceder a habilitar la característica de Hyper-V es necesario comprob
 * Procesador con CPU con capacidad de virtualización. (VT-x en Intel y AMD-V en AMD).
 * Capacidad de virtualización en la BIOS activa.
 * Mínimo de 4 GB de memoria RAM.
-* 
+
 Analicemos a continuación estos requisitos previos.
 
 ### Comprobar edición de Windows 10
