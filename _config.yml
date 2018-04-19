@@ -81,7 +81,7 @@ social:
   name                   : # If the user or organization name differs from the site's name
   links: 
     - "https://twitter.com/Albertopc92"
-    - "https://www.linkedin.com/in/alberto-p%C3%A9rez-cano-8626a1156/" 
+    - "https://www.linkedin.com/in/alberto-perez-cano/" 
     # An array of links to social media profiles
 
 # Analytics
@@ -112,7 +112,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "alberto-p%C3%A9rez-cano-8626a1156" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "alberto-perez-cano" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
